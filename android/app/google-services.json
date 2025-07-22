@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "166208508368",
+    "project_id": "kelimetekraruygulamasi",
+    "storage_bucket": "kelimetekraruygulamasi.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166208508368:android:4bba6e5d1311ade69569d5",
+        "android_client_info": {
+          "package_name": "com.example.flutter_word_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyuXExgwmlYPj8go8XdXPjHgq-NtI4Yus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
